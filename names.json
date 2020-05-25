@@ -1,0 +1,36 @@
+{
+  "user":{
+    "name": "Petya",
+    "phone": "123",
+    "sex": "m"
+  },
+
+  "user": {
+    "name": "Vasya",
+    "phone": "234",
+    "sex": "m"
+  },
+
+  "user": {
+    "name": "Valya",
+    "phone": "456",
+    "sex": "w"
+  },
+
+  "user": {
+    "name": "Yulia",
+    "phone": "777",
+    "sex": "w"
+  },
+
+  "user": {
+    "name": "UFO",
+    "phone": "@@@",
+    "sex": "ufo"
+  },
+  "user": {
+    "name": "Andrey",
+    "phone": "111",
+    "sex": "ufo"
+  }
+}
